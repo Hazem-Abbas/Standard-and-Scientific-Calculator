@@ -1,0 +1,3 @@
+E:\BFCAI\projects\full_calculator\full_calculator\Debug\full_calculator.vcxproj.SuggestedBindingRedirects.cache
+E:\BFCAI\projects\full_calculator\full_calculator\Debug\full_calculator.Form1.resources
+E:\BFCAI\projects\full_calculator\full_calculator\Debug\full_calculator.vcxproj.GenerateResource.cache
